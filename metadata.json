@@ -1,0 +1,5 @@
+{
+  "name": "AI Work Log & Review",
+  "description": "An application to log your daily work tasks and receive AI-powered feedback and review at the end of the day to improve productivity.",
+  "requestFramePermissions": []
+}
